@@ -33,7 +33,6 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Dev-kachhadiya&theme=react-dark)
 
-.github/workflows/snake.yml
 
 name: Generate Snake
 
