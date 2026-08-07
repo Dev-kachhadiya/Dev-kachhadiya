@@ -16,18 +16,14 @@
 
 
 
-![](https://github-readme-stats.shion.dev/api?username=Het-Patel-cg&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Dev-kachhadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
 
 
 
-![](https://streak-stats.demolab.com/?user=Het-Patel-cg&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Dev-kachhadiya&theme=dark&hide_border=false)
 
 
 
 
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Het-Patel-cg&theme=dark&hide_border=false&layout=compact)
-
-![](https://streak-stats.demolab.com/?user=Het-Patel-cg&theme=dark&hide_border=false)
