@@ -27,9 +27,6 @@
 
 
 
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dev-kachhadiya&theme=dark&hide_border=false&layout=compact)
-
 ## 📈 Contribution Graph:
 
 
