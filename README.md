@@ -20,7 +20,7 @@
 
 
 
-[](https://streak-stats.demolab.com/?user=Dev-kachhadiya&theme=dark&hide_border=false&count_private=true) 
+![](https://streak-stats.demolab.com/?user=Dev-kachhadiya&theme=dark&hide_border=false&count_private=true) 
 
 
 
