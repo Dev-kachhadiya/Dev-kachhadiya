@@ -20,7 +20,9 @@
 
 
 
-![](https://streak-stats.demolab.com/?user=Dev-kachhadiya&theme=dark&hide_border=false&count_private=true) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dev-kachhadiya&theme=dark&hide_border=false&count_private=true)](https://git.io/streak-stats)
+```
+
 
 
 
