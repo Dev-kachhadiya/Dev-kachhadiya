@@ -78,7 +78,7 @@ Right now I'm focused on the basics that everything else gets built on: **HTML &
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://www.linkedin.com/">
+      <a href="https://www.linkedin.com/in/dev-kachhadiya-739260427/">
         <img src="https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><b>Let's Connect</b></sub>
       </a>
@@ -90,7 +90,7 @@ Right now I'm focused on the basics that everything else gets built on: **HTML &
       </a>
     </td>
     <td align="center" width="200">
-      <a href="mailto:youremail@example.com">
+      <a href="mailto:dev.kachhadiya.cg@gmail.com">
         <img src="https://img.shields.io/badge/-%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
         <sub><b>Say Hi</b></sub>
       </a>
