@@ -52,7 +52,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Hacker Terminal" width="320" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"/>
+
 
 Hey, I'm **Dev Kachhadiya** 👋 — a **1st Year Engineering student** just starting out on my coding journey. I'm still early in the game, but I'm putting in the reps every day to build a strong foundation.
 
