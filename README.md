@@ -159,7 +159,7 @@ Right now I'm focused on the basics that everything else gets built on: **HTML &
 
 <div align="center">
 
-### ✨ *"Small consistent steps beat big one-time efforts."*
+###✨ *"Small consistent steps beat big one-time efforts."*
 
 <br/>
 
