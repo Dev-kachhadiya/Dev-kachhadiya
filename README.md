@@ -1,4 +1,4 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== HEADER ==================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,30:2d0a4e,60:0a1e3d,100:001a33&height=260&section=header&text=Dev%20Kachhadiya&fontSize=80&fontColor=00E5FF&animation=fadeIn&fontAlignY=45&fontAlign=50&desc=Beginner%20Coder%20%7C%20HTML%20%2F%20CSS%20%2F%20Python%20%7C%20Design%20Enthusiast&descAlignY=65&descAlign=50&descSize=18&stroke=00E5FF&strokeWidth=2" width="100%"/>
 
